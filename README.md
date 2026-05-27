@@ -446,12 +446,6 @@ RAG/
 
 ---
 
-## 📄 License
-
-This project is for educational and personal use.
-
----
-
 ## 🤝 Contributing
 
 Feel free to submit issues and pull requests to improve this project.
